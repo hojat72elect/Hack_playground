@@ -4,12 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="945c8f82-05ed-4ed7-a63a-a3f261481036" name="Changes" comment="Initial commit for AOX defacer">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="945c8f82-05ed-4ed7-a63a-a3f261481036" name="Changes" comment="Added 3 targets">
+      <change afterPath="$PROJECT_DIR$/src/B012ED_defacer/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/B012ED_defacer/def.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/B012ED_defacer/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/B012ED_defacer/target.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aoxDefacer/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/aoxDefacer/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aoxDefacer/aox.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/aoxDefacer/aox.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/aoxDefacer/target.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/aoxDefacer/target.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,6 +62,9 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/aoxDefacer" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/B012ED_defacer" />
     </key>
   </component>
   <component name="RunManager">
@@ -138,7 +141,21 @@
       <option name="project" value="LOCAL" />
       <updated>1668932037434</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Some reformatting">
+      <created>1668933259767</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1668933259767</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Added 3 targets">
+      <created>1668933272512</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1668933272512</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -157,7 +174,9 @@
     <MESSAGE value="Implemented an Echo server" />
     <MESSAGE value="some renamings" />
     <MESSAGE value="Initial commit for AOX defacer" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit for AOX defacer" />
+    <MESSAGE value="Some reformatting" />
+    <MESSAGE value="Added 3 targets" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added 3 targets" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
