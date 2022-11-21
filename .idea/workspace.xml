@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="945c8f82-05ed-4ed7-a63a-a3f261481036" name="Changes" comment="Ticket_1 : created socket module">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="945c8f82-05ed-4ed7-a63a-a3f261481036" name="Changes" comment="removed unnecessary files">
       <change beforePath="$PROJECT_DIR$/src/socket/test_socket_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/socket/echo_server.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/socket/test_socket_2.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +64,7 @@
       <recent name="$PROJECT_DIR$/src/B012ED_defacer" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.def">
+  <component name="RunManager" selected="Python.echo_server">
     <configuration name="def" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Hack_playground" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -80,6 +78,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/B012ED_defacer/def.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="echo_server" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Hack_playground" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/socket" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/socket/echo_server.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -111,6 +130,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.echo_server" />
         <item itemvalue="Python.def" />
       </list>
     </recent_temporary>
@@ -194,7 +214,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669000155946</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="removed unnecessary files">
+      <created>1669004152011</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1669004152011</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -217,7 +244,8 @@
     <MESSAGE value="Added 3 targets" />
     <MESSAGE value="Initial commit for B012ED_defacer library" />
     <MESSAGE value="Ticket_1 : created socket module" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ticket_1 : created socket module" />
+    <MESSAGE value="removed unnecessary files" />
+    <option name="LAST_COMMIT_MESSAGE" value="removed unnecessary files" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
