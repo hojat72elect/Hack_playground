@@ -8,5 +8,5 @@ convert a website's address to IP address.
 website_address = 'www.leader.ir'
 
 # The IP address of the website
-ip_address = socket.gethostbyname(website_address)
+ip_address: str = socket.gethostbyname(website_address)
 print("Website's IP address:", ip_address)
