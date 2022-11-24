@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="945c8f82-05ed-4ed7-a63a-a3f261481036" name="Changes" comment="Simple example of echo server">
-      <change afterPath="$PROJECT_DIR$/src/socket/tutorial1.py" afterDir="false" />
+    <list default="true" id="945c8f82-05ed-4ed7-a63a-a3f261481036" name="Changes" comment="convert_address_to_ip">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/socket/convert_address_to_ip.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/socket/convert_address_to_ip.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +33,7 @@
         <option value="$PROJECT_DIR$/src/aoxDefacer/aox.py-x-inp" />
         <option value="$PROJECT_DIR$/src/socket/echo_server.py-connection" />
         <option value="$PROJECT_DIR$/src/socket/echo_server.py-address" />
+        <option value="$PROJECT_DIR$/src/socket/convert_address_to_ip.py-ip_address" />
       </collection>
     </option>
   </component>
@@ -275,7 +276,21 @@
       <option name="project" value="LOCAL" />
       <updated>1669248445190</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="convert_address_to_ip">
+      <created>1669249186768</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1669249186768</updated>
+    </task>
+    <task id="LOCAL-00014" summary="convert_address_to_ip">
+      <created>1669249346185</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1669249346185</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -300,7 +315,8 @@
     <MESSAGE value="Ticket_1 : created socket module" />
     <MESSAGE value="removed unnecessary files" />
     <MESSAGE value="Simple example of echo server" />
-    <option name="LAST_COMMIT_MESSAGE" value="Simple example of echo server" />
+    <MESSAGE value="convert_address_to_ip" />
+    <option name="LAST_COMMIT_MESSAGE" value="convert_address_to_ip" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
