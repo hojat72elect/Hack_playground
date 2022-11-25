@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="945c8f82-05ed-4ed7-a63a-a3f261481036" name="Changes" comment="readme">
-      <change afterPath="$PROJECT_DIR$/src/socket/check_website.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="945c8f82-05ed-4ed7-a63a-a3f261481036" name="Changes" comment="check_website.py" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -326,7 +323,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669338898435</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="check_website.py">
+      <created>1669348279662</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1669348279662</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -353,7 +357,8 @@
     <MESSAGE value="Simple example of echo server" />
     <MESSAGE value="convert_address_to_ip" />
     <MESSAGE value="readme" />
-    <option name="LAST_COMMIT_MESSAGE" value="readme" />
+    <MESSAGE value="check_website.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="check_website.py" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
