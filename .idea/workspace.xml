@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="945c8f82-05ed-4ed7-a63a-a3f261481036" name="Changes" comment="http_header_dumper.py">
-      <change afterPath="$PROJECT_DIR$/src/requests/referer_spoofing.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="945c8f82-05ed-4ed7-a63a-a3f261481036" name="Changes" comment="referer_spoofing.py">
+      <change afterPath="$PROJECT_DIR$/src/requests/cookies_manipulator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/books/Understanding Network Hacks Attack and Defense with Python 3 (2021)-40047.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/books/Understanding Network Hacks Attack and Defense with Python 3 (2021)-40047.pdf" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -225,7 +225,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673056634824</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="referer_spoofing.py">
+      <created>1673057428946</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1673057428946</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -257,7 +264,8 @@
     <MESSAGE value="Updated penetration_targets.py" />
     <MESSAGE value="reverse_ip_lookup.py" />
     <MESSAGE value="http_header_dumper.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="http_header_dumper.py" />
+    <MESSAGE value="referer_spoofing.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="referer_spoofing.py" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
